@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+/*
+GitHub: https://github.com/johnsoncodehk/unity-assetsgenerator
+*/
+using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenuAttribute]
